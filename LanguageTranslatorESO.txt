@@ -1,0 +1,8 @@
+## Title: LanguageTranslatorESO
+## Author: alexander.p.conrad@gmail.com
+## Version: 0.1
+## Notes: Provides a translation for text fields in a second language.
+## SavedVariables: LanguageTranslatorESO_SavedVariables
+## APIVersion: 100007
+
+LanguageTranslatorESO.lua
